@@ -1,9 +1,10 @@
 {
   "name": "@doinn/html5-qrcode",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A cross platform HTML5 QR Code & bar code scanner",
   "files": [
-    "dist"
+    "dist",
+    "src/"
   ],
   "main": "./dist/cjs/index.js",
   "module": ".dist//esm/index.js",
